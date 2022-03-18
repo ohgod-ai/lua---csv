@@ -2,7 +2,7 @@ package = "csvigo"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/clementfarabet/lua---csv",
+   url = "git://github.com/ohgod-ai/lua---csv",
    tag = "master"
 }
 
@@ -11,7 +11,7 @@ description = {
    detailed = [[
 A CSV read/write library for Torch.
    ]],
-   homepage = "https://github.com/clementfarabet/lua---csv",
+   homepage = "https://github.com/ohgod-ai/lua---csv",
    license = "BSD"
 }
 
